@@ -1,0 +1,19 @@
+
+/jupyter notebooks/__pycache__
+/jupyter notebooks/.ipynb_checkpoints
+*.pyc
+
+# Bỏ qua môi trường ảo và thư viện
+.venv/
+venv/
+env/
+ENV/
+
+# Bỏ qua file cache Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Bỏ qua file cấu hình riêng của hệ thống
+.vscode/
+.idea/
